@@ -1,3 +1,6 @@
+4 Different reusable components (Accordion, Search, Dropdown & Translate) with a simple React-router'ish routing system.
+They do make use of semantic ui, though - so only really reusable on a page including that css framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
